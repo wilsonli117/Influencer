@@ -19,6 +19,7 @@ const help = () => {
     console.log('   who referred <email>');
     console.log('   who has <email> referred');
     console.log('   who is the biggest influencer')
+    console.log('   help')
     console.log('   quit')
     console.log('Please input a command');
 }
